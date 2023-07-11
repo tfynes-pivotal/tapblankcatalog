@@ -9,5 +9,5 @@ spec:
   lifecycle: experimental
   owner: default-team
   providesApis:
-    - customer-profile
+    - customer-profile.akslab4.tap.fynesy.com
   system: customer-profile
