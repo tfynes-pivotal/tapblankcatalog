@@ -10,3 +10,4 @@ spec:
   owner: default-team
   providesApis:
     - customer-profile
+  system: customer-profile
