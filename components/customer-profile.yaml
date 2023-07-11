@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: customer-profile
+  name: customer_profile
   annotations:
     "backstage.io/kubernetes-label-selector": "app.kubernetes.io/part-of=customer-profile"
 spec:
@@ -9,5 +9,5 @@ spec:
   lifecycle: experimental
   owner: default-team
   providesApis:
-    - customer-profile-akslab4.tap.fynesy.com
-  system: customer-profile
+    - customer_profile-akslab4.tap.fynesy.com
+  system: customer_profile
