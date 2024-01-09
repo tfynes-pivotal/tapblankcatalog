@@ -10,6 +10,7 @@ spec:
     - ./components/tap-gui.yaml
     - ./components/tdemo1.yaml
     - ./components/tdemo2.yaml
+    - ./components/jsolo1.yaml
     - ./components/customer-profile.yaml
     - ./groups/default-org.yaml
     - ./systems/tap-gui-system.yaml
